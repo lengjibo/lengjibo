@@ -3,7 +3,7 @@
   </em></p>
 
 ![Lengyi's github stats](https://github-readme-stats.vercel.app/api?username=lengjibo)
-
+<p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
 <p>
 </div>
