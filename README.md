@@ -14,9 +14,7 @@
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lengjibo)
 
 - 鸿鹄实验室创始人及核心
-- 我的博客：https://lengjibo.github.io/
-- 团队公众号：鸿鹄实验室
-- 测试平台作者
+- 团队公众号：鸿鹄实验室,欢迎关注
 - 热终于渗透测试、红队技巧、内网安全。目前就读于某大学计科专业，大三学生一枚。
 
 ## 注：
