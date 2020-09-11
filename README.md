@@ -6,6 +6,8 @@
 <p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
 <p>
+  
+<a href="mailto:qqlengyi@163.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qqlengyi@163.com" alt="Gmail"></a>
 </div>
 ---
 
