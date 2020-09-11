@@ -1,4 +1,17 @@
-## 关于我
+<h2> Hi, I'm lengyi! <img src="https://media.giphy.com/media/IfsByYYHyNlnINT46g/giphy.gif" width="70"></h2>
+<p><em>My blog is <a href="https://lengjibo.github.io/">lengyi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em></p>
+
+![Lengyi's github stats](https://github-readme-stats.vercel.app/api?username=lengjibo)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
+<p>
+</div>
+---
+
+⭐️ From [@lengjibo](https://github.com/lengjibo)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lengjibo)
 
 - 鸿鹄实验室创始人及核心
 - 我的博客：https://lengjibo.github.io/
