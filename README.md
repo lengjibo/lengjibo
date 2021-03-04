@@ -2,10 +2,12 @@
 <p><em>My blog is <a href="https://lengjibo.github.io/">lengyi</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </em></p>
 
-![Lengyi's github stats](https://github-readme-stats.vercel.app/api?username=lengjibo)
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1495224255/2288/christmas_parrot.gif?1495224255" width="30"/> Nice to see you.</h2>
+
 <p>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Lets Get Social</em>
-<p>
+  <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=lengjibo&show_icons=true&hide_border=true&hide=prs&theme=buefy">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengjibo&layout=compact&hide_border=true&theme=buefy&show_icons=true">
+</p>
   
 <a href="mailto:qqlengyi@163.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qqlengyi@163.com" alt="Gmail"></a>
 </div>
