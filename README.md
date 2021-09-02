@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lengjibo&layout=compact&hide_border=true&theme=buefy&show_icons=true">
 </p>
   
-<a href="mailto:qqlengyi@163.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qqlengyi@163.com" alt="Gmail"></a>
 </div>
 ---
 
@@ -17,14 +16,8 @@
 
 ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lengjibo)
 
-- 鸿鹄实验室创始人及核心
-- 团队公众号：鸿鹄实验室,欢迎关注
-- 热衷于渗透测试、红队技巧、内网安全。目前就读于某大学计科专业，大三学生一枚。
+<img src="https://raw.githubusercontent.com/lengjibo/lengjibo/master/c.svg" width="100%" height="100%"></a>
 
-## 注：
 
-所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
 
-所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
 
-所有工具仅用于安全研究以及内部自查，禁止使用工具发起非法攻击，造成的后果使用者负责
