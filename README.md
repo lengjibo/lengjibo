@@ -12,9 +12,6 @@
 </div>
 ---
 
-⭐️ From [@lengjibo](https://github.com/lengjibo)
-
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lengjibo)
 
 <img src="https://raw.githubusercontent.com/lengjibo/lengjibo/master/c.svg" width="100%" height="100%"></a>
 
